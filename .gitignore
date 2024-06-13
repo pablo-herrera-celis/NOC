@@ -1,8 +1,12 @@
 node_modules/
 dist/
 logs/
+test/
 
 
 .env
 
-mongo/
+/mongo
+/postgres
+/mongo-test
+/postgres-test
